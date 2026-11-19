@@ -1,0 +1,403 @@
+
+[
+  {
+    "id": 1,
+    "name": "Iron Longsword",
+    "category": "Sword",
+    "weight": 4.0,
+    "strength_required": 12,
+    "dexterity_required": 10,
+    "damage": 115,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 2,
+    "name": "Hunter's Bow",
+    "category": "Bow",
+    "weight": 3.5,
+    "strength_required": 8,
+    "dexterity_required": 14,
+    "damage": 82,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 3,
+    "name": "Warhammer",
+    "category": "Hammer",
+    "weight": 9.0,
+    "strength_required": 18,
+    "dexterity_required": 7,
+    "damage": 145,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 4,
+    "name": "Apprentice Staff",
+    "category": "Staff",
+    "weight": 2.0,
+    "strength_required": 4,
+    "dexterity_required": 8,
+    "damage": 45,
+    "scaling_attribute": "Intelligence"
+  },
+  {
+    "id": 5,
+    "name": "Duelist's Rapier",
+    "category": "Rapier",
+    "weight": 2.5,
+    "strength_required": 7,
+    "dexterity_required": 16,
+    "damage": 96,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 6,
+    "name": "Steel Greatsword",
+    "category": "Greatsword",
+    "weight": 8.5,
+    "strength_required": 20,
+    "dexterity_required": 12,
+    "damage": 165,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 7,
+    "name": "Shadow Dagger",
+    "category": "Dagger",
+    "weight": 1.2,
+    "strength_required": 5,
+    "dexterity_required": 15,
+    "damage": 68,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 8,
+    "name": "Oak Battleaxe",
+    "category": "Axe",
+    "weight": 7.0,
+    "strength_required": 16,
+    "dexterity_required": 9,
+    "damage": 132,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 9,
+    "name": "Silver Spear",
+    "category": "Spear",
+    "weight": 4.5,
+    "strength_required": 11,
+    "dexterity_required": 13,
+    "damage": 108,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 10,
+    "name": "Heavy Crossbow",
+    "category": "Crossbow",
+    "weight": 6.0,
+    "strength_required": 14,
+    "dexterity_required": 12,
+    "damage": 125,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 11,
+    "name": "Crystal Staff",
+    "category": "Staff",
+    "weight": 2.8,
+    "strength_required": 5,
+    "dexterity_required": 9,
+    "damage": 118,
+    "scaling_attribute": "Intelligence"
+  },
+  {
+    "id": 12,
+    "name": "Flame Wand",
+    "category": "Wand",
+    "weight": 1.5,
+    "strength_required": 3,
+    "dexterity_required": 7,
+    "damage": 105,
+    "scaling_attribute": "Intelligence"
+  },
+  {
+    "id": 13,
+    "name": "Executioner's Greataxe",
+    "category": "Greataxe",
+    "weight": 11.0,
+    "strength_required": 24,
+    "dexterity_required": 8,
+    "damage": 190,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 14,
+    "name": "Windrunner Bow",
+    "category": "Bow",
+    "weight": 2.8,
+    "strength_required": 6,
+    "dexterity_required": 18,
+    "damage": 94,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 15,
+    "name": "Knight's Mace",
+    "category": "Mace",
+    "weight": 5.5,
+    "strength_required": 15,
+    "dexterity_required": 8,
+    "damage": 121,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 16,
+    "name": "Frostbite Scythe",
+    "category": "Scythe",
+    "weight": 6.5,
+    "strength_required": 13,
+    "dexterity_required": 16,
+    "damage": 142,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 17,
+    "name": "Bronze Shortsword",
+    "category": "Sword",
+    "weight": 3.0,
+    "strength_required": 9,
+    "dexterity_required": 11,
+    "damage": 88,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 18,
+    "name": "Stonebreaker Hammer",
+    "category": "Hammer",
+    "weight": 12.0,
+    "strength_required": 26,
+    "dexterity_required": 6,
+    "damage": 205,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 19,
+    "name": "Serpent Fang",
+    "category": "Dagger",
+    "weight": 1.0,
+    "strength_required": 4,
+    "dexterity_required": 19,
+    "damage": 79,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 20,
+    "name": "Guardian Halberd",
+    "category": "Halberd",
+    "weight": 8.0,
+    "strength_required": 17,
+    "dexterity_required": 14,
+    "damage": 151,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 21,
+    "name": "Moonlight Staff",
+    "category": "Staff",
+    "weight": 2.3,
+    "strength_required": 4,
+    "dexterity_required": 10,
+    "damage": 135,
+    "scaling_attribute": "Intelligence"
+  },
+  {
+    "id": 22,
+    "name": "Recurve Bow",
+    "category": "Bow",
+    "weight": 3.0,
+    "strength_required": 7,
+    "dexterity_required": 16,
+    "damage": 101,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 23,
+    "name": "Blacksmith's Pick",
+    "category": "Pickaxe",
+    "weight": 5.0,
+    "strength_required": 14,
+    "dexterity_required": 10,
+    "damage": 116,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 24,
+    "name": "Ceremonial Twinblades",
+    "category": "Twinblade",
+    "weight": 4.0,
+    "strength_required": 10,
+    "dexterity_required": 18,
+    "damage": 138,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 25,
+    "name": "Dwarven Greathammer",
+    "category": "Greathammer",
+    "weight": 13.5,
+    "strength_required": 28,
+    "dexterity_required": 5,
+    "damage": 218,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 26,
+    "name": "Arcane Orb Staff",
+    "category": "Staff",
+    "weight": 3.2,
+    "strength_required": 6,
+    "dexterity_required": 11,
+    "damage": 152,
+    "scaling_attribute": "Intelligence"
+  },
+  {
+    "id": 27,
+    "name": "Ranger's Crossbow",
+    "category": "Crossbow",
+    "weight": 4.2,
+    "strength_required": 9,
+    "dexterity_required": 15,
+    "damage": 99,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 28,
+    "name": "Royal Claymore",
+    "category": "Greatsword",
+    "weight": 9.5,
+    "strength_required": 22,
+    "dexterity_required": 14,
+    "damage": 178,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 29,
+    "name": "Whispering Knife",
+    "category": "Dagger",
+    "weight": 0.9,
+    "strength_required": 3,
+    "dexterity_required": 17,
+    "damage": 73,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 30,
+    "name": "Stormcaller Spear",
+    "category": "Spear",
+    "weight": 5.0,
+    "strength_required": 13,
+    "dexterity_required": 17,
+    "damage": 147,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 31,
+    "name": "Molten Battleaxe",
+    "category": "Axe",
+    "weight": 8.0,
+    "strength_required": 19,
+    "dexterity_required": 9,
+    "damage": 159,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 32,
+    "name": "Sage's Wand",
+    "category": "Wand",
+    "weight": 1.3,
+    "strength_required": 2,
+    "dexterity_required": 8,
+    "damage": 112,
+    "scaling_attribute": "Intelligence"
+  },
+  {
+    "id": 33,
+    "name": "Grim Reaper Scythe",
+    "category": "Scythe",
+    "weight": 7.2,
+    "strength_required": 15,
+    "dexterity_required": 19,
+    "damage": 171,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 34,
+    "name": "Iron Flail",
+    "category": "Flail",
+    "weight": 6.8,
+    "strength_required": 14,
+    "dexterity_required": 12,
+    "damage": 128,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 35,
+    "name": "Dragonbone Greatsword",
+    "category": "Greatsword",
+    "weight": 10.5,
+    "strength_required": 25,
+    "dexterity_required": 13,
+    "damage": 198,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 36,
+    "name": "Phantom Rapier",
+    "category": "Rapier",
+    "weight": 2.2,
+    "strength_required": 6,
+    "dexterity_required": 20,
+    "damage": 109,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 37,
+    "name": "Ancient Warstaff",
+    "category": "Staff",
+    "weight": 4.0,
+    "strength_required": 8,
+    "dexterity_required": 12,
+    "damage": 163,
+    "scaling_attribute": "Intelligence"
+  },
+  {
+    "id": 38,
+    "name": "Titan's Maul",
+    "category": "Hammer",
+    "weight": 15.0,
+    "strength_required": 30,
+    "dexterity_required": 5,
+    "damage": 235,
+    "scaling_attribute": "Strength"
+  },
+  {
+    "id": 39,
+    "name": "Eagle Eye Longbow",
+    "category": "Bow",
+    "weight": 4.5,
+    "strength_required": 10,
+    "dexterity_required": 21,
+    "damage": 134,
+    "scaling_attribute": "Dexterity"
+  },
+  {
+    "id": 40,
+    "name": "Celestial Scepter",
+    "category": "Scepter",
+    "weight": 2.5,
+    "strength_required": 5,
+    "dexterity_required": 9,
+    "damage": 185,
+    "scaling_attribute": "Intelligence"
+  }
+]
