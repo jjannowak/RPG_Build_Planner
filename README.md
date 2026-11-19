@@ -69,7 +69,7 @@ No additional third-party Python packages are required.
 1. Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/jjannowak/RPG_Build_Planner.git
 ```
 
 2. Navigate to the project directory:
